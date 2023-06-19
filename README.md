@@ -1,0 +1,1 @@
+![tazhibayda's GitHub stats](https://github-readme-stats.vercel.app/api?username=tazhibayda&show_icons=true&theme=radical)
